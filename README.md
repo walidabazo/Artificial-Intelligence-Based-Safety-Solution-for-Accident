@@ -1,5 +1,7 @@
 # Artificial-Intelligence-Based-Safety-Solution-for-Accident
 
+[![Watch the video](https://img.youtube.com/vi/H3dZqzgsovI/0.jpg)](https://youtu.be/H3dZqzgsovI)
+
     #define trigPin 2            //sensor A
     #define echoPin 3          //sensor A
     #define btrigPin 7          //sensor B
